@@ -77,8 +77,10 @@ Notifications for overspending
 🤝 Contributions
 Pull requests are welcome! For major changes, open an issue first to discuss what you would like to change.
 
-#Proposed Interface Lookout 
-![image](https://github.com/user-attachments/assets/e1e8961f-e0a9-4999-b62d-5640ff6c777f)
+# 🚀 Proposed Interface Lookout 
+
+![ChatGPT Image May 4, 2025, 09_10_27 PM](https://github.com/user-attachments/assets/712628d7-eaec-4827-acc7-49135ea65d6d)
+
 
  
 
