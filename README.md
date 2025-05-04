@@ -77,6 +77,8 @@ Notifications for overspending
 🤝 Contributions
 Pull requests are welcome! For major changes, open an issue first to discuss what you would like to change.
 
+#Proposed Interface Lookout 
+![image](https://github.com/user-attachments/assets/e1e8961f-e0a9-4999-b62d-5640ff6c777f)
 
  
 
