@@ -1,3 +1,12 @@
+> **Note to GDG Interview Team**  
+I have pushed my limits to complete this project under a tight timeline. I would be honored if given the opportunity to join the GDG Club.
+> this app dev was a big step working with Kotlin and flutter based technology as a 1st year student for the team to take that in consideration 
+I have previously contributed to open source via GSOC 2025 through PRs in the AOOSIE (Resonate) repository.
+Being a part of GDG will help me polish my Flutter and full-stack skills and strengthen my journey towards GSOC 2026 and broader Google Open Source Community involvement.
+Thank you for your consideration!
+---
+
+
 # 💰 Budget_Manager
 
 A simple and powerful budget tracking app built using **Flutter** and **Firebase**. Users can register, log in, and manage their daily expenses with real-time updates and analytics.
